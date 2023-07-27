@@ -1,6 +1,8 @@
 [
 {"team1_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3Krc-rHc6hQt_ZaV5iiOcGgYTwoyOyxx4g&s", "team2_image" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png", "team1_name" : "Chelsea", "team2_name" : "Liverpool", "league" : "Premire League", "date" : "26.7.2023", "time" : "8:00 PM",
-"watch_time" : "open", "link_name" : "English HD", "link2_name" : "English SD", "link3_name" : "close", "link4_name" : "close", "link1" : "http1", "link2" : "http2", "link3" : "http3", "link4" : "http4"}
+"watch_time" : "open", "link1_name" : "English HD", "link2_name" : "English SD", "link3_name" : "close", "link4_name" : "close", "link1" : "http1", "link2" : "http2", "link3" : "http3", "link4" : "http4"}
 {"team1_image" : "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg", "team2_image" : "https://upload.wikimedia.org/wikipedia/sco/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png", "team1_name" : "Arsenal", "team2_name" : "Barcelona", "league" : "Friendly", "date" : "27.7.2023", "time" : "9:30 AM",
-"team2_image" : "open", "link1_name" : "English HD", "link2_name" : "English SD", "link3_name" : "China", "link4_name" : "Venium", "link1" : "https", "link2" : "http", "link3" : "http", "link4" : "http"}
+"watch_time" : "open", "link1_name" : "English HD", "link2_name" : "English SD", "link3_name" : "China", "link4_name" : "Venium", "link1" : "https", "link2" : "http", "link3" : "http", "link4" : "http"}
+{"team1_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd04KRtsxefAUtQujkx81DTvIS6KYQk2QTSQ&s", "team2_image" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png", "team1_name" : "Real Madrid", "team2_name" : "Manchchester City", "league" : "Friendly", "date" : "27.7.2023", "time" : "2:00 PM",
+"watch_time" : "close", "link1_name" : "English HD", "link2_name" : "English SD", "link3_name" : "China", "link4_name" : "Venium", "link1" : "https", "link2" : "http", "link3" : "http", "link4" : "http"}
 ]
